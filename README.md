@@ -1,5 +1,7 @@
 # SupGo - Le twisto du futur
 
+## Andrew MAHÉ - Gwenegan AFFAGARD - Pierre-André MAYOUX
+
 ## Setup
 ```bash
 git clone https://github.com/roxasenjoy/SupGo.git
