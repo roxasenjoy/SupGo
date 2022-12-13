@@ -1,6 +1,6 @@
 # SupGo - Le twisto du futur
 
-## Andrew MAHÉ - Gwenegan AFFAGARD - Pierre-André MAYOUX
+Projet réalisé par : Andrew MAHÉ - Gwenegan AFFAGARD - Pierre-André MAYOUX
 
 ## Setup
 ```bash
