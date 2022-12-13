@@ -9,6 +9,14 @@ npx hardhat run --network goerli scripts/deploy.js
 npm start
 ```
 
+Une fois le projet en votre possession.
+
+Une fois dans le repo du projet, aller dans le fichier se trouvant à l'emplacement suivant :"src/components/Navbar.js" et changer la valeur de la ligne 16 avec votre adresse de Wallet MetaMask afin d'avoir les droits admin.
+
+Lancer la commande "npm install" pour initialiser le projet. Puis "npm start" pour lancer le projet.
+
+Une fois le projet lancé, ouvrir son navigateur favoris et se rendre à l'adresse suivante : "localHost:3000".
+
 
 ## Application 
 
