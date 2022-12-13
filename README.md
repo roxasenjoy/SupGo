@@ -5,6 +5,7 @@
 git clone https://github.com/roxasenjoy/SupGo.git
 cd SupGo
 npm install
+npx hardhat run --network goerli scripts/deploy.js
 npm start
 ```
 
