@@ -2,8 +2,8 @@
 
 Setup du projet pour faire marcher le marketplace en local :
 ```bash
-git clone https://github.com/roxasenjoy/Marketplace-NFT.git
-cd Marketplace-NFT
+git clone https://github.com/roxasenjoy/SupGo.git
+cd SupGo
 npm install
 npm start
 
