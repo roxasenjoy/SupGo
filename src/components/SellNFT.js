@@ -106,7 +106,7 @@ export default function SellNFT () {
         <div className="">
         <Navbar></Navbar>
         <div className="flex flex-col place-items-center mt-10 " id="nftForm">
-            <form className="bg-white shadow-md rounded px-8 pt-4 pb-8 mb-4 dark:bg-gray-800">
+            <form className="bg-white shadow-md rounded px-8 pt-4 pb-8 mb-4 bg-gray-800">
             <h3 className="text-center font-bold mb-8" style={{color:"#00C9B7"}}>Ajouter un ticket</h3>
                 <div className="mb-4">
                     <label className="block text-sm font-bold mb-2" htmlFor="name" style={{color:"#00C9B7"}}>Nom</label>

@@ -137,15 +137,15 @@ async function buyNFT(tokenId) {
         <div style={{"min-height":"100vh"}} >
             <Navbar></Navbar>
 
-            <div class="w-full bg-red max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 text-center pt-8 m-auto mt-7">
-                <div class="text-3xl font-bold text-gray-900 dark:text-white text-center"> {data.name} </div>
+            <div class="w-full bg-red max-w-sm bg-white rounded-lg shadow-md bg-gray-800 border-gray-700 text-center pt-8 m-auto mt-7">
+                <div class="text-3xl font-bold text-gray-900 text-white text-center"> {data.name} </div>
                 <br/>
-                <div class="text-1xl text-gray-600 dark:text-white text-center"> {data.description} </div>
+                <div class="text-1xl text-gray-600 text-white text-center"> {data.description} </div>
                 <img src={data.image} alt="" className="p-8 rounded-t-lg" />
 
                 <div class="px-5 pb-5">
                     <div class="flex items-center justify-between">
-                        <span class="text-3xl font-bold text-gray-900 dark:text-white">{data.price + " ETH"}</span>
+                        <span class="text-3xl font-bold text-gray-900 text-white">{data.price + " ETH"}</span>
                         { currAddress === data.owner || currAddress === data.seller ?
                         <div className="enableEthereumButton text-white font-bold py-2 px-4 rounded text-sm" style={{backgroundColor:"#00C9B7"}}>Vous êtes le propriétaire </div>
 
